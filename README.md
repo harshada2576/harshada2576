@@ -15,8 +15,19 @@ You can click the Preview link to take a look at your changes.
 
 Here are a few projects I'm proud of:
 
-- 🚀 [ATM Simulator in Java](https://github.com/harshada2576/ATM-java) — Simulates ATM functionalities with PIN, balance checks, withdrawals, and more  
-- 📋 [Hospital Record Management System](https://github.com/harshada2576/College-Mini-Projects](https://github.com/harshada2576/Data-Structures-/blob/main/HospitalRecordManagementSystem.c) —Use of data structures and C 
-- ✈️ [Flight Reservation System](https://github.com/harshada2576/Flight-Reservation-Java) — A GUI-based reservation system (Java + Swing)
+### 🚀 [ATM Simulator in Java](https://github.com/harshada2576/ATM-java)
+A command-line based ATM simulator that includes:
+- User authentication with secure PIN entry
+- Balance check, cash withdrawal, deposit, and PIN change features
+- Built using **Java** with object-oriented design and file handling
 
 ---
+
+### 🏥 [Hospital Record Management System (in C)](https://github.com/harshada2576/Data-Structures-/blob/main/HospitalRecordManagementSystem.c)
+A hospital system using **linked lists and queues** for:
+- Managing doctors, patients, and hospitals
+- FIFO-based patient queue simulation
+- Written in **C**, demonstrating practical usage of data structures
+
+---
+
