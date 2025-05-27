@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 Here are a few projects I'm proud of:
 
 - 🚀 [ATM Simulator in Java](https://github.com/harshada2576/ATM-java) — Simulates ATM functionalities with PIN, balance checks, withdrawals, and more  
-- 📋 [College Mini Projects](https://github.com/harshada2576/College-Mini-Projects) — Compilation of C & Java programs for academic reference  
+- 📋 [Hospital Record Management System]([https://github.com/harshada2576/College-Mini-Projects](https://github.com/harshada2576/Data-Structures-/blob/main/HospitalRecordManagementSystem.c)) — Compilation of C & Java programs for academic reference  
 - ✈️ [Flight Reservation System](https://github.com/harshada2576/Flight-Reservation-Java) — A GUI-based reservation system (Java + Swing)
 
 ---
