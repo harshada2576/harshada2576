@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 Here are a few projects I'm proud of:
 
-### 🚀 [ATM Simulator in Java](https://github.com/harshada2576/ATM-java)](https://github.com/harshada2576/Java_Projects/tree/main/ATMAPP)
+### 🚀 [ATM Simulator in Java](https://github.com/harshada2576/Java_Projects/tree/main/ATMAPP)
 A command-line based ATM simulator that includes:
 - User authentication with secure PIN entry
 - Balance check, cash withdrawal, deposit, and PIN change features
