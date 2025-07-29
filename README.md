@@ -36,6 +36,6 @@ A hospital system using **linked lists and queues** for:
 A simple to-do list application built using arrays:
 - Add, delete, update, and view tasks
 - Demonstrates menu-driven programming and modular C structure
-- Great for beginners exploring **array-based data structures**
+- Great for beginners exploring ** data structures**
 
 ---
