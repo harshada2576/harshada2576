@@ -7,35 +7,20 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love turning complex problems into simple and elegant code solutions — and I never say no to a good debugging challenge!
 
+- ---
+## 💻 My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, C, Markdown |
+| **Data & Algorithms** | Data Structures, Algorithms, Object-Oriented Programming (OOP) |
+| **Web Development** | (Add any frameworks like HTML, CSS, JavaScript, React, etc.) |
+| **Tools & Other** | Git, GitHub |
+
+---
+
 <!---
 harshada2576/harshada2576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## 📌 Projects
-
-Here are a few projects I'm proud of:
-
-### 🚀 [ATM Simulator in Java](https://github.com/harshada2576/Java_Projects/tree/main/ATMAPP)
-A command-line based ATM simulator that includes:
-- User authentication with secure PIN entry
-- Balance check, cash withdrawal, deposit, and PIN change features
-- Built using **Java** with object-oriented design and file handling
-
----
-
-### 🏥 [Hospital Record Management System (in C)](https://github.com/harshada2576/Data-Structures-/blob/main/HospitalRecordManagementSystem.c)
-A hospital system using **linked lists and queues** for:
-- Managing doctors, patients, and hospitals
-- FIFO-based patient queue simulation
-- Written in **C**, demonstrating practical usage of data structures
-
----
-
-### ✅ [To-Do List (in C)](https://github.com/harshada2576/Data-Structures-/blob/main/To_Do_List.c)
-A simple to-do list application built using arrays:
-- Add, delete, update, and view tasks
-- Demonstrates menu-driven programming and modular C structure
-- Great for beginners exploring ** data structures**
-
----
