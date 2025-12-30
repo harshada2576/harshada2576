@@ -15,7 +15,7 @@
 | **Languages** | Java, Python, C, Markdown |
 | **Data & Algorithms** | Data Structures, Algorithms, Object-Oriented Programming (OOP) |
 | **Web Development** | React |
-| **Tools & Other** | Git, GitHub |
+| **Tools & Other** | Git, GitHub, VS Code |
 
 ---
 
